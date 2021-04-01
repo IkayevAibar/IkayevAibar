@@ -2,7 +2,7 @@
 
 - ⚡ Fun fact: Today i had lunch :)
 
-![Aibar's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkayevAibar&show_icons=true&theme=radical)
+![Aibar's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkayevAibar&show_icons=true&theme=nightowl)
 
 <!--
 **IkayevAibar/IkayevAibar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
