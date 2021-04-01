@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
+![Visitor Count](https://profile-counter.glitch.me/IkayevAibar/count.svg)
