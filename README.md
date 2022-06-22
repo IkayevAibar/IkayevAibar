@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Aibar
 
-- ⚡ Fun fact: Today i had lunch :)
-
+- ⚡ Fun fact: Today i don't had lunch :)
+- 🔭 I’m currently not working D:
+- 🌱 I’m currently trying to learn Android, React.js and Golang 
 <!--
 ![Aibar's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkayevAibar&show_icons=true&theme=chartreuse-dark)
 
@@ -9,8 +10,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
