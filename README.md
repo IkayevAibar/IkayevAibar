@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Aibar
 
-- ⚡ I have some skills in Python, C#, JS, Java, and etc :D
+- ⚡ I have some skills in Python, C#, JS, PHP, Java, and etc :D
 - 🔭 I’m currently not working D:
 - 🌱 I’m currently trying to learn Android, React.js and Golang 
 <!--
